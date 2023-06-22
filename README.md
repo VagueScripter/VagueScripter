@@ -1,4 +1,3 @@
-Introduction
 Hello there! I'm Harsh, a passionate data engineer with a strong enthusiasm for solving complex problems, exploring new stacks related to big data, 
 and ironing out bugs in data pipelines.
 I believe that data engineering is a fascinating field that plays a crucial role in enabling data-driven decision-making and unlocking valuable insights.
